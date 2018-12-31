@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HappyNewYear</string>
+    <integer name="com_vk_sdk_AppId">6803224</integer>
+</resources>
